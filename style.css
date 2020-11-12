@@ -1,0 +1,80 @@
+
+
+body {
+  background: rgba(99, 94, 89, 0.74);
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background: url(https://www.hdri-hub.com/media/k2/galleries/764/loc00180_7_Space_Sky_4k_detail2.jpg) repeat-y  ;
+background-position: center ;
+background-size: 100% 100%;
+}
+
+#header {
+  background: #F5DEB3;
+  width: 80vw;
+  height: 48vh;
+  margin-top: -15px;
+  background-image: url(file:///C:/Users/alexa/OneDrive/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/maxresdefault2e_LI.jpg);
+  margin-left: 17vw;
+  border-bottom: firebrick 8px ridge;
+  border-left: firebrick 8px ridge ;
+  border-right: firebrick 8px ridge;
+ border-bottom-right-radius:20px;
+ border-bottom-left-radius: 2px;
+}
+
+#header2 {
+  background: gray;
+width: 100%;
+height: 11%;
+padding-top: 10px;
+transform: translateY(300px);
+border-bottom-right-radius: 14px;
+}
+
+#description {
+  background: #2e2727;
+  color: rgb(209, 33, 33);
+  width: 81.55%;
+  height: 300px;
+  margin-left: 18vw;
+  margin-top: 260px;
+  text-align: center;
+  border: #000 5px solid;
+  border-top: rgb(224, 155, 25) solid 10px;
+  border-bottom: crimson solid 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#navigation {
+  text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+height: 500px;
+}
+
+#content {
+  background: #DCDCDC;
+  float: right;
+  width: 80%;
+  height: 750px;
+margin-right: 1vw;
+margin-top: 10vh;
+}
+
+#clear {
+  clear: both;
+}
+
+#footer {
+ background: #00BFFF;
+width: 100%;
+height: 40px;
+}
+
+navigation:hover{
+  background: #d8360d; /* Цвет фона под ссылкой */ 
+  color: #ffe; /* Цвет ссылки */
+ margin: 0px;
+ } 
